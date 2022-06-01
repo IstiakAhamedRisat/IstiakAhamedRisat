@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Psycho-🥱**
+- 🔰I am psycho ***
 
 - 📫 How to reach me **mr.allien500k@gmail.com**
 
