@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Psycho-🥱**
+- 💬 Ask not me about ****
 
 - 📫 How to reach me **mr.allien500k@gmail.com**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/istiak.ahamed.risat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.ahamed.risat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucuupnfmaidexr1cl8e9d4lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuupnfmaidexr1cl8e9d4lg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/istiak.ahamed.risat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.ahamed.risat" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCuuPNFMAidEXR1cl8E9D4lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuupnfmaidexr1cl8e9d4lg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
