@@ -1,11 +1,15 @@
-<h1 align="center">Hi😊, I'm Istiak Ahamed Risat</h1>
+<h1 align="center">Hi 👋, I'm Istiak Ahamed Risat</h1>
 <h3 align="center">Hey I am from Bangladesh🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahamedrisat&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahamedrisat" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiakahamedrisat" alt="istiakahamedrisat" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask not me about ****
+- 💬 Ask me about **Psycho-🥱**
 
 - 📫 How to reach me **mr.allien500k@gmail.com**
 
