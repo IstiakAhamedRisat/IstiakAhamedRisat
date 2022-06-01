@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8C8C8&background=000000&center=true&vCenter=true&lines=Hello+I+am+Istiak+Ahamed+Risat;This+Is+Just+Not+A+Name;This+Name+Is+Brand%F0%9F%98%8E%F0%9F%98%88;Thank+You+Everyone%F0%9F%A5%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2EF71E&background=000000&center=true&vCenter=true&lines=Hello+I+Am+Istiak+Ahamed++Risat;This+Is+Just+Not+A+Name;This++Name+Is+Brand%F0%9F%98%8E%F0%9F%98%88;Thank+You+Everyone+%F0%9F%A5%B0%F0%9F%98%98)](https://git.io/typing-svg)
 <h3 align="center">Hey I am from Bangladesh🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahamedrisat&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahamedrisat" /> </p>
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mr.allien500k@gmail.com**
 
-- ⚡ Fun fact **Funny Man🤪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
