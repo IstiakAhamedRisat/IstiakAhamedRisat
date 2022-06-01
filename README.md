@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😊, I'm Istiak Ahamed Risat</h1>
+<h1 align="center">Hi👋😊, I'm Istiak Ahamed Risat</h1>
 <h3 align="center">Hey I am from Bangladesh🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahamedrisat&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahamedrisat" /> </p>
