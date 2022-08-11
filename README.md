@@ -29,11 +29,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙽𝙰𝙼𝙴 :- 𝚃𝙾𝚄𝙵𝙸𝚀 𝙰𝙷𝙼𝙴𝙳
+- ➪ 𝙽𝙰𝙼𝙴 :- Istiak Ahamed Risat
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝚂𝚃𝚄𝙳𝙴𝙽𝚃
+- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝚂𝚃𝚄𝙳𝙴𝙽𝚃😝
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -44,7 +44,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
+- 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼😘
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -92,8 +92,8 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/T0UF1Q/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=T0UF1Q&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="𝚁𝙳𝚇 𝚃𝙾𝚄𝙵𝙸𝚀 GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/T0UF1Q/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0UF1Q&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/IstiakAhamedRisat/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=IstiakAhamedRisat&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="𝚁𝙳𝚇 𝚃𝙾𝚄𝙵𝙸𝚀 GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/IstiakAhamedRisat/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0UF1Q&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
