@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=T0UF1Q&label=Profile%20views&color=eb4d3d&style=flat-square" alt="T0UF1Q" /> </p>
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -11,7 +10,7 @@
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/T0UF1Q"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=T0UF1Q&theme=monokai"></a>
+<a href="https://github.com/IstiakAhamedRisat"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=T0UF1Q&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -49,7 +48,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Istiak Ahamed Risat](https://www.facebook.com/Remember.This.Name.ToufiQ.K1NG/)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Istiak Ahamed Risat](https://www.facebook.com/link.putki.diye.dhukai.dibo)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
