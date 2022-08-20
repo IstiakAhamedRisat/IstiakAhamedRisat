@@ -40,7 +40,7 @@
 - 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- 𝙸 𝙷𝙰𝚅𝙽'𝚃 𝙰𝚗𝚢 𝙱𝚎𝚜𝚝 𝙵𝚛𝚒𝚎𝚗𝚍
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
+- ☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵😌
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
